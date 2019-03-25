@@ -1,0 +1,1 @@
+﻿create table encryption(plain_text varchar(100),key1 varchar(100),cipher_text varchar(100))
